@@ -57,4 +57,4 @@ And voila! Run the scripts ```benchmark.py``` and ```profiler.py``` to check the
     python benchmark.py
     python profiler.py
 
-Open ```trace.json``` at ```chrome://tracing/```
+Open ```trace.json``` at ```chrome://tracing/```.
